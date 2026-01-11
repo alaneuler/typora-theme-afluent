@@ -1,6 +1,6 @@
 # Typora Theme: AFluent
 
-This is a theme for Typora based on [Fluent-Typora](https://github.com/li3zhen1/Fluent-Typora) and has a built-in dark mode support.
+This is a theme for Typora based on [Fluent-Typora](https://github.com/li3zhen1/Fluent-Typora) with some fixes and enhancements.
 
 ## Formattings
 You can place headers in blockquote with extra styles.
