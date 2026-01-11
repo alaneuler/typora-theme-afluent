@@ -1,20 +1,8 @@
 # Typora Theme: AFluent
 
-This is a theme for Typora based on [Fluent-Typora](https://github.com/li3zhen1/Fluent-Typora) with some fixes and enhancements.
+This is a theme for Typora based on [Fluent-Typora](https://github.com/li3zhen1/Fluent-Typora) with some enhancements:
+1. Fixed the font color problem when renaming a file/directory
+2. Customized the font for shortcut characters
 
-## Formattings
-You can place headers in blockquote with extra styles.
-
-```markdown
-> # Bookmark
-> This is `H1` inside a block quote.
-```
-
-```markdown
-> ###### Question
-> This is `H6` inside a block quote.
-```
-
-Results:
-
-<img src="./images/blockquote.png" style="width: 600px">
+## Screenshots
+<img src="./images/macos-cheatsheet-screenshot.png" style="width: 600px">
